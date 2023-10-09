@@ -10,7 +10,7 @@ public class CarroCompra {
 		}
 	}
 
-	public int calcularTotal() {
+	private int calcularTotal() {
 		int total=0, subtotal=0;
 		for (int i=0; i<5; i++){
 			total +=subTotal(productos[0][i],productos[1][i]);
@@ -18,7 +18,7 @@ public class CarroCompra {
 		return total;
 	}
 
-	public int subTotal(int cant, int precio) {
+	private int subTotal(int cant, int precio) {
 		Calculadora calc = new Calculadora(cant,precio);
 		return calc.multiplicar();
 	}
