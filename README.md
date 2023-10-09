@@ -1,4 +1,4 @@
-Evidencia 07: 
+Evidencia 07
 
 Integrantes: 
 - Kihara Millaldeo 
