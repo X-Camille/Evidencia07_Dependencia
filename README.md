@@ -1,8 +1,7 @@
 Evidencia 07
 
 Integrantes: 
-- Kihara Millaldeo 
+- Kihara Millaldeo
 - Camille Elgueta 
 
-Análisis del código: 
-
+Análisis del código:
