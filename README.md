@@ -2,9 +2,9 @@ Evidencia 07
 
 Integrantes:
 
-    Kihara Millaldeo
+-Kihara Millaldeo
 
-    Camille Elgueta
+-Camille Elgueta
 
 
 (4)Actividades a realizar:
